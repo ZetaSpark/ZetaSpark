@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZetaSpark
+- 👋 Hi, I’m @ZetaSpark.
 - 👀 I’m interested in open source and web developement.
 - 🌱 I’m currently learning Java as my first language.
 - 💞️ I’m looking to collaborate on ...
