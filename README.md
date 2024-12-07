@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZetaSpark.
+- 👋 Hi, I’m Shivam Sharma
 - 👀 I’m interested in open source and web developement.
-- 🌱 I’m currently learning Java as my first language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on various open-source projects
+
 
 <!---
 ZetaSpark/ZetaSpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
